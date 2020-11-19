@@ -1,4 +1,7 @@
 {
+  "todos":[
+    { "id": 1, "title": "todo1" },
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
